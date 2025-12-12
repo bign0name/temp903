@@ -1,6 +1,8 @@
 title: History Blog
 description: CHW3M
 theme: minima
+author: false
+header_pages: []
 
 defaults:
   - scope:
