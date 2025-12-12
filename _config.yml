@@ -3,11 +3,3 @@ description: CHW3M
 minima:
   header_links: []
 author: false
-
-include:
-  - _includes/custom-head.html
-defaults:
-  - scope:
-      path: ""
-    values:
-      header: _includes/custom-head.html
