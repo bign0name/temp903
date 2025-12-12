@@ -1,3 +1,9 @@
 title: History Blog
 description: CHW3M
 theme: jekyll-theme-minimal
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      show_sidebar: false

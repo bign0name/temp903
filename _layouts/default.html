@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {%- feed_meta -%}
+    {%- if page.title -%}
+      <title>{{ page.title | default: site.title }}</title>
+    {%- else -%}
+      <title>{{ site.title }}</title>
+    {%- endif -%}
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    {%- if jekyll.environment == 'production' and site.google_analytics -%}
+      {%- include head-custom-google-analytics.html -%}
+    {%- endif -%}
+    {%- include head-custom.html -%}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="site-header" role="banner">
+        <div class="site-header__inner wrapper">
+          <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+          {%- if site.show_nav_toggle %}
+            <button class="nav-toggle" type="button" aria-label="toggle site navigation">
+              <svg class="nav-toggle__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+                <path d="M0 24h48v-2H0v2zM0 12h48v-2H0v2zM0 36h48v-2H0v2z"/>
+              </svg>
+            </button>
+          {%- endif -%}
+          {%- include nav.html -%}
+        </div>
+      </header>
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </main>
+
+      <footer class="site-footer" role="contentinfo">
+        <div class="wrapper">
+          {%- include footer-custom.html -%}
+        </div>
+      </footer>
+    </div>
+
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {%- if site.search == true or page.layout == "search" -%}
+      {%- include search.html -%}
+    {%- endif -%}
+    {%- include scripts-custom.html -%}
+  </body>
+</html>
