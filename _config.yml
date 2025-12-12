@@ -1,11 +1,14 @@
 title: History Blog
 description: CHW3M
-theme: minima
+minima:
+  skin: classic
+  header_links: []
 author: false
-header_pages: []
 
+include:
+  - _includes/custom-head.html
 defaults:
   - scope:
       path: ""
     values:
-      show_sidebar: false
+      header: _includes/custom-head.html
