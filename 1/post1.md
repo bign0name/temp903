@@ -4,7 +4,9 @@ layout: default
 date: 2025-12-11
 ---
 
-# Three Historically Significant Artifacts of [Your Civilization]
+# Three Artifacts That Unlocked Ancient Egypt: The Key to Understanding a Lost Civilization
+
+
 
 Paste your revised thesis statement here as the first paragraph.
 
