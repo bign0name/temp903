@@ -4,28 +4,23 @@ layout: default
 date: 2025-12-11
 ---
 
-# Three Artifacts That Unlocked Ancient Egypt: The Key to Understanding a Lost Civilization
+# Three Foundations of Ancient China: Writing, Bronze, and Empire
 
+Despite producing countless later achievements, three developments were the most historically significant to the creation of ancient Chinese civilization: oracle bone inscriptions, which gave China its first writing system and the ability to record history; bronze ritual vessels, which made possible metallurgy and ancestor-worship religion that defined Shang kingship; and the Terracotta Army, which symbolizes Qin Shi Huang’s unification of the warring states in 221 BCE and the birth of China as a single empire.
 
-
-Paste your revised thesis statement here as the first paragraph.
 
 Then your 200–300 word explanation (just normal paragraphs in Markdown).
 
-## The Three Artifacts
-
-### 1. [Name of Artifact 1]
-![Artifact 1 description](artifact1.jpg)
+### 1. Oracle Bones
+![Oracle Bones](oracle-bones.png)
 *Caption that explains why it’s historically significant.*
 
-### 2. [Name of Artifact 2]
-![Artifact 2 description](artifact2.jpg)
+### 2. [Bronze Ritual Vessels]
+![Bronze Ritual Vessels](bronze-ritual-vessels.jpeg)
 
 ### 3. [Name of Artifact 3]
-![Artifact 3 description](artifact3.jpg)
+![Terracotta Army](terracotta-army.jpg)
 
 ## Bibliography (Chicago style)
 1. Author, “Title,” Publication, date, URL.  
 2. Etc.
-
-(Just write the citations in plain text; teacher doesn’t expect clickable footnotes for a static page)
