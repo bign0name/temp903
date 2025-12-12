@@ -1,6 +1,6 @@
 title: History Blog
 description: CHW3M
-theme: jekyll-theme-minimal
+theme: minima
 
 defaults:
   - scope:

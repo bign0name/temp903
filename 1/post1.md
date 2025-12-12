@@ -1,6 +1,6 @@
 ---
 title: Three Historically Significant Artifacts
-layout: default
+layout: post
 date: 2025-12-11
 ---
 
