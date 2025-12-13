@@ -1,5 +1,5 @@
 ---
-title: Three Historically Significant Artifacts
+title: Three Foundations of Ancient China: Writing, Bronze, and Empire
 layout: default
 date: 2025-12-11
 ---
