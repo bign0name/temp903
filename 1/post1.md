@@ -10,7 +10,7 @@ Despite producing countless later achievements, three developments were the most
 
 ### Artifact 1: Oracle Bones
 ![Oracle Bones](oracle-bones.png)
-Oracle Bone Inscription, Shang Dynasty, British Museum
+*Oracle Bone Inscription, Shang Dynasty, British Museum*
 
 Oracle bones are pieces of ox shoulder blades or turtle shells that Shang kings and priests used for divination. They carved questions (like about rain, wars, or harvests) into the bone, heated it until it cracked, then read the cracks as answers from ancestors or gods. These are the earliest known examples of Chinese writing.
 
@@ -20,7 +20,7 @@ The writing system from oracle bones evolved directly into modern Chinese charac
 
 ### Artifact 2: Bronze Ritual Vessels
 ![Bronze Ritual Vessels](bronze-ritual-vessels.jpeg)
-Ritual Tripod Vessel (Ding), Shang Dynasty, Metropolitan Museum of Art
+*Ritual Tripod Vessel (Ding), Shang Dynasty, Metropolitan Museum of Art*
 
 Bronze ritual vessels, especially the three-legged ding cauldrons, were large pots cast from bronze that Shang kings and nobles used to cook and offer food (like meat) to their ancestors during religious ceremonies.
 
@@ -45,12 +45,21 @@ As we have seen through the oracle bones, bronze ritual vessels, and Terracotta 
 
 ## Bibliography
 "Chinese Bronzes: The Shang Dynasty (c. 1600–1046 BCE)." Britannica. Accessed December 12, 2025. https://www.britannica.com/art/Chinese-bronzes/The-Shang-dynasty-c-1600-1046-bce.
+
 "Ding (Vessel)." Wikipedia. Accessed December 12, 2025. https://en.wikipedia.org/wiki/Ding_(vessel).
+
 "Oracle Bone." Smarthistory. Accessed December 12, 2025. https://smarthistory.org/oracle-bone/.
+
 "Oracle Bone, Shang Dynasty." British Museum. Accessed December 12, 2025. https://www.britishmuseum.org/collection/object/A_1911-1111-2.
+
 "Oracle Bones." World History Encyclopedia. Last modified February 26, 2016. https://www.worldhistory.org/Oracle_Bones/.
+
 "Oracle Bone Script." Wikipedia. Accessed December 12, 2025. https://en.wikipedia.org/wiki/Oracle_bone_script.
+
 "Ritual Tripod Cauldron (Ding)." Metropolitan Museum of Art. Accessed December 12, 2025. https://www.metmuseum.org/art/collection/search/53555.
+
 "Terra-cotta Army." Britannica. Accessed December 12, 2025. https://www.britannica.com/topic/terra-cotta-army.
+
 "Terracotta Army." Wikipedia. Accessed December 12, 2025. https://en.wikipedia.org/wiki/Terracotta_Army.
+
 "The Terracotta Warriors." Smarthistory. Accessed December 12, 2025. https://smarthistory.org/the-terracotta-warriors/.
