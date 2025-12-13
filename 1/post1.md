@@ -30,7 +30,7 @@ The Shang dynasty likely had several million people living in its core area (est
 
 ### 3. Artifact 3: Terracotta Army
 ![Terracotta Army](terracotta-army.jpg)
-Terracotta Army Warriors in Formation
+*Terracotta Army Warriors in Formation*
 
 The Terracotta Army is a massive collection of over 8,000 life-size clay soldiers, horses, and chariots buried with China's first emperor, Qin Shi Huang. Each warrior has a unique face and armor, arranged in battle formation like a real army.
 
@@ -44,6 +44,7 @@ I chose ancient China for this exhibit because of my interest in technology and 
 As we have seen through the oracle bones, bronze ritual vessels, and Terracotta Army, these three artifacts were clearly the most historically significant developments in the creation of ancient Chinese civilization.
 
 ## Bibliography
+
 "Chinese Bronzes: The Shang Dynasty (c. 1600–1046 BCE)." Britannica. Accessed December 12, 2025. https://www.britannica.com/art/Chinese-bronzes/The-Shang-dynasty-c-1600-1046-bce.
 
 "Ding (Vessel)." Wikipedia. Accessed December 12, 2025. https://en.wikipedia.org/wiki/Ding_(vessel).
