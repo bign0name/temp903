@@ -3,11 +3,12 @@ layout: default
 ---
 
 Post 4:
-
+### [3 Artifacts With Lasting Legacies From Ancient China: Paper, Blue-and-white Porcelain, and the Compass](./4/post4.html)
 
 
 Post 3:
 ### [The Fall of the Qin: Three Artifacts That Reveal a Dynasty's Swift Collapse](./3/post3.html)
+
 
 Post 2:
 ### [Decree of Qin Shi Huang: Life Under the Unified Empire After the Conquest of Qi](./2/post2.html)
