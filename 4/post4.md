@@ -9,7 +9,7 @@ date: 2025-12-17
 Ancient China produced many inventions that shaped the world, but three stand out for their lasting legacies: paper, blue-and-white porcelain, and the magnetic compass. Paper, invented in the Han Dynasty around 105 CE by Cai Lun, made recording and sharing knowledge far easier and cheaper than bamboo or silk, spreading literacy and ideas across civilizations. Blue-and-white porcelain, perfected during the Yuan and Ming dynasties, offered a strong, translucent, heat-resistant material that didn't chip or stain like ordinary pottery, becoming a global trade luxury that influenced ceramics everywhere. The compass, developed in the Han and improved in the Song, allowed reliable sea navigation beyond sight of land, enabling safer exploration and trade routes. These inventions remain essential today: paper in books and printing, porcelain in tableware, and compasses in modern navigation tools.
 
 ### Artifact 1: Ancient Paper:
-![Ancient Paper](paper.jpeg)
+![Ancient Paper](paper.jpg)
 *Oldest Paper Book, Pi Yu Jing, Composed of Six Different Materials*
 
 The earliest forms of paper appeared in China during the Western Han Dynasty, with fragments found dating back to around 179-141 BCE. However, the major improvement came in 105 CE when court official Cai Lun reported a better method to Emperor He of the Eastern Han Dynasty. Cai Lun made paper by mixing mulberry bark, hemp, old rags, and fishing nets into a pulp, then spreading it thin and drying it into sheets. This created a light, cheap material much easier to write on than heavy bamboo strips or expensive silk. Before paper, books were bulky and hard to carry; Cai Lun's version made writing and records far more practical for government, scholars, and daily use.
@@ -27,7 +27,7 @@ This artifact shows huge historical significance as a symbol of Chinese craftsma
 From continuity and change: it continued older Chinese pottery and painting traditions, but the high-fired porcelain body and vivid blue marked a big positive change: stronger and more beautiful than regular pottery. This spread slowly at first, then rapidly in Ming/Qing as demand grew. From a historical perspective, it was a turning point: Europeans copied it (like Delftware in Netherlands), starting local industries. Today, it's still relevant: in fine dinnerware worldwide, it inspires modern design, and "china" means porcelain in English.
 
 ### 3. Compass
-![Han Dynasty Loadstone Compass](compass.jpg)
+![Han Dynasty Loadstone Compass](compass.jpeg)
 *Han Dynasty Loadstone Compass*
 
 The Han Dynasty lodestone compass, often called the "south-pointing spoon" (sinan), was a simple device made from naturally magnetic lodestone carved into a spoon shape and placed on a smooth bronze plate. When balanced carefully, the spoon's handle would spin and always point south due to Earth's magnetic field. First mentioned in records from the Han Dynasty (around 200 BCE to 220 CE), it was mainly used for divination, fortune-telling, and feng shui to align buildings or choose lucky sites. Later versions included floating magnetized needles in water bowls.
