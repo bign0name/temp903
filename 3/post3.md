@@ -28,7 +28,7 @@ This artifact ties directly to the Qin's rapid decline. The project relied on fo
 
 The Qin Great Wall reflects both continuity and change in Chinese defense strategies. It continued the tradition of border walls built by earlier states during the Warring States period, maintaining the basic idea of protecting farmland from nomads. However, the change was rapid and negative: Qin made it far larger and more centralized, demanding massive forced labor that drained the economy and people's strength. This extreme scale proved a turning point, it did little to stop real threats but helped cause the dynasty's quick fall through overwork and rebellion. Later dynasties rebuilt parts more carefully, learning from Qin's mistakes.
 
-### 3. Law and Politics
+### Artifact 3: Damaged Terracotta Army
 ![Damaged Terracotta Army](terracotta-army-damaged.jpg)
 *Damaged Terracotta Warriors from Qin Tomb*
 
